@@ -11,7 +11,15 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1"
-  }
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiancasd/rest-server-profe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cristiancasd/rest-server-profe/issues"
+  },
+  "homepage": "https://github.com/cristiancasd/rest-server-profe#readme"
 }
